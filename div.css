@@ -1,7 +1,20 @@
+body{
+    background-image: url("images/roses/backg4.jpg");
+    background-size: cover;
+}
+
 h1{
-    
     text-align:center;
 }
+p,h1{
+    color: whitesmoke;
+}
+
+p:hover{
+    color: yellow;
+
+}
+
 .shado-me p{
     font-family: verdana;
     font-size: 20px;
@@ -55,14 +68,12 @@ h1{
     padding-left: 40%;
     height: 100%;
    
-
 }
 .i-am-foot img{
    width: 20%;
-   float: right;
- 
-    
-    
+   float: right;  
 }
+
+
 
 /* 
