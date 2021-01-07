@@ -1,0 +1,53 @@
+h1{
+    
+    text-align:center;
+}
+.shado-me p{
+    font-family: verdana;
+    font-size: 20px;
+    width: 16%;
+    height: 100%;
+    float: left;
+    padding: 1% 2%;
+    box-shadow: 4px 4px 40px gray;
+    border-radius: 2px;
+    border-image-slice: 1;
+}
+.i-am-img img{
+    width: 16%;
+    height: 100%;
+    float: left;
+    margin: 1% 2%;
+    box-shadow: 4px 4px 10px gray;
+    border-radius: 2px;
+}
+.shado-me{
+    width: 100%;
+    height: 100%;
+    box-shadow: 25px 25px 80px gray;
+    margin: 15px 10px 20px 10px;
+    float: left;
+    border-radius: 20px;
+}
+.half-width{
+    width: 45%;
+    height: 100%;
+    margin: 5px 10px;
+    float: left;
+
+}
+.half-width img{
+    width: 30%;
+    size: 50px;
+    height: 100%;
+    float: left;
+    box-shadow: 2px 2px 5px whitesmoke;
+    border-radius: 4px;
+    margin: 2px 2px;
+}
+.half-width p{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
